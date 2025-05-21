@@ -13,7 +13,7 @@ I use a zip server from BSDS that [LkPrtctrd](https://github.com/LkPrtctrd) modi
 3: Type python Main.py and it's done, follow client instructions.
 
 ### Android Client ###
-1: Download the APK here: soon
+1: Download this [APK](https://www.mediafire.com/file/h1t1suzq3wx58bu/com.projectbsds.v53176.apk/file)
 
 2: Change redirectHost (and redirectPort if you need it) in the frida config (lib/armeabi-v7a/libprojectbsds.c.so)
 
