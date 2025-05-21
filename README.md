@@ -6,7 +6,7 @@ Python Brawl Stars server emulator for version 53
 ### Server ###
 I use a zip server from BSDS that [LkPrtctrd](https://github.com/LkPrtctrd) modified which was made by [Сrazor](https://github.com/CrazorTheCat) and [risporse](https://github.com/risporce)
 
-1: Download the server and extract it: 
+1: Download the [server](https://github.com/BrawlStarsApkZip/BSDS-V53/archive/refs/heads/main.zip) and extract it.
 
 2: Open terminal on your computer and go to server directory.
 
