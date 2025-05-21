@@ -1,10 +1,12 @@
+README.md by [LkPrtctrd](https://github.com/LkPrtctrd)
+
 # BSDS-V53
 Python Brawl Stars server emulator for version 53
 
 ## How to play: ##
 
 ### Server ###
-I use a zip server from BSDS that [LkPrtctrd](https://github.com/LkPrtctrd) modified which was made by [Сrazor](https://github.com/CrazorTheCat) and [risporse](https://github.com/risporce)
+I use a zip server from BSDS that I modified which was made by [Сrazor](https://github.com/CrazorTheCat) and [risporse](https://github.com/risporce)
 
 1: Download the server and extract it: 
 
