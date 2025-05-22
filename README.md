@@ -1,6 +1,8 @@
 # BSDS-V53
 Python Brawl Stars server emulator for version 53
 
+[Our telegram](https://t.me/BSDS_Unofficial)
+
 ## How to play: ##
 
 ### Server ###
